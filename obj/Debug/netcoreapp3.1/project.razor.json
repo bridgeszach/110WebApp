@@ -20521,8 +20521,23 @@
   "RootNamespace": "WebApp",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Zach\\Documents\\School\\Unit 110 - ASP.NET Core\\WebApp\\Views\\Catalog\\Index.cshtml",
+      "TargetPath": "Views\\Catalog\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Zach\\Documents\\School\\Unit 110 - ASP.NET Core\\WebApp\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Zach\\Documents\\School\\Unit 110 - ASP.NET Core\\WebApp\\Views\\Catalog\\Register.cshtml",
+      "TargetPath": "Views\\Catalog\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Zach\\Documents\\School\\Unit 110 - ASP.NET Core\\WebApp\\Views\\Home\\About.cshtml",
+      "TargetPath": "Views\\Home\\About.cshtml",
       "FileKind": "mvc"
     },
     {

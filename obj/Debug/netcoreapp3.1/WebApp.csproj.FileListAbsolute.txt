@@ -36,3 +36,6 @@ C:\Users\Zach\Documents\School\Unit 110 - ASP.NET Core\WebApp\obj\Debug\netcorea
 C:\Users\Zach\Documents\School\Unit 110 - ASP.NET Core\WebApp\obj\Debug\netcoreapp3.1\WebApp.genruntimeconfig.cache
 C:\Users\Zach\Documents\School\Unit 110 - ASP.NET Core\WebApp\obj\Debug\netcoreapp3.1\WebApp.csproj.CopyComplete
 C:\Users\Zach\Documents\School\Unit 110 - ASP.NET Core\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Message\SayHello.cshtml.g.cs
+C:\Users\Zach\Documents\School\Unit 110 - ASP.NET Core\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Zach\Documents\School\Unit 110 - ASP.NET Core\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\Users\Zach\Documents\School\Unit 110 - ASP.NET Core\WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Register.cshtml.g.cs
