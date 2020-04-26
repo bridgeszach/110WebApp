@@ -1,4 +1,4 @@
-function Car(make, model, year, color, price, mileage, mpg, image, seating, condition) {
+function Car(make, model, year, color, price, mileage, mpg, image, seats, condition) {
     this.make = make;
     this.model = model;
     this.year = year;
@@ -12,14 +12,14 @@ function Car(make, model, year, color, price, mileage, mpg, image, seating, cond
 }
 
 function registerCar() {
-    var make = $("//#endregiontxtMake").val();
+    var make = $("txtMake").val();
     var model = $("#txtModel").val();
     var year = $("#txtYear").val();
     var color = $("#txtColor").val();
-    var price = $("txtPrice").val();
-    var mileage = $("txtMileage").val();
-    var mpg = $("txtMPG").val();
-    var image = $("txtImage").val();
+    var price = $("#txtPrice").val();
+    var mileage = $("#txtMileage").val();
+    var mpg = $("#txtMPG").val();
+    var image = $("#txtImage").val();
     var seats = $("#txtSeats").val();
     var condition = $("#selCondition").val();
 
@@ -47,8 +47,8 @@ function registerCar() {
     console.log(car);
 
     $.ajax({
-        url: '',
-        type: 'Post',
+        url: '/catalog/saveCar',
+        type: 'POST',
         contentType: 'application/json',
         data: JSON.stringify(car),
         success: function (res) {
